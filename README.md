@@ -1,5 +1,7 @@
 # Data Scientist
 
+**Technical Skills: x, y, z**
+
 ### Education
 Statistics and Data Science, B.S.
 
