@@ -16,7 +16,7 @@ Undergraduate Learning Assistant for Introductory Statistics Classes
 - Facilitated in class activities and proctored tests by answering students’ questions and upholding academic integrity
 - Promoted a safe and conducive learning environment for all students
 
-### Projects
+### Projects (titles and small description)
 project 1
 
 project 2
