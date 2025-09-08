@@ -13,3 +13,14 @@ permalink: /projects/
 **Status:** Complete/In Progress/Planned
 
 **Code:** [Link to your code - see Part C below]
+
+## Customer Data Analysis
+
+**Description:** Analyzed customer purchasing patterns to identify trends
+
+**Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook
+
+**Status:** Complete
+
+**Code:** [View Project](https://github.com/yourusername/
+yourrepo/tree/data-analysis-project)
