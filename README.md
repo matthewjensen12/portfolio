@@ -1,6 +1,6 @@
 # Data Scientist
 
-**Technical Skills: x, y, z**
+**Technical Skills: R, Python, Excel**
 
 ### Education
 Studying Statistics and Data Science
