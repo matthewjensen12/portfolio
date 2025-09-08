@@ -22,5 +22,5 @@ permalink: /projects/
 
 **Status:** Complete
 
-**Code:** [View Project](https://github.com/yourusername/
+**Code:** [View Project](https://github.com/matthewjensen12/
 yourrepo/tree/data-analysis-project)
