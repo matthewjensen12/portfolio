@@ -1,6 +1,8 @@
+---
 layout: page
 title: About Me
 permalink: /about/
+---
 
 2-3 paragraphs about: 
 background and interests, 
