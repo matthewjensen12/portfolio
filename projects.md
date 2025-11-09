@@ -14,6 +14,16 @@ permalink: /projects/
 
 **Code:** [Link to your code - see Part C below]
 
+## Chocolate Ratings
+
+**Description:** Created an RShiny App that utilizes interactive features for a user to explore chocolate ratings based on a dataset in kaggle. The user can select a country and the app will display its top rated chocolate companies as well as highlight the countries where they source the most cocoa beans from. Beyond this country specific scale, global data is also incorporated, displaying the countries with the highest and lowest cocoa percentages and their ratings. Lastly, it displays a violin plot to show the distribution of the ratings based on ingredient sets in the chocolate bars.
+
+**Technologies:** R, RShiny
+
+**Status:** Complete
+
+**Code:** [Link to your code - see Part C below]
+
 ## Project Name
 
 **Description:** Brief explanation of what the project does
